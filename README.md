@@ -21,12 +21,13 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+```
 Program to print the text “optionmenu”.
 Developed by: Hemapriya R
 Registeration Number : 212222040055
-*/
-MainActivity.java:
+```
+# MainActivity.java
+```
 package com.example.exp13;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -94,8 +95,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-
-activity_main.xml:
+```
+# activity_main.xml:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -130,8 +132,9 @@ activity_main.xml:
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 ## OUTPUT
-![384413860-8959ab62-39b5-4d81-b029-200b2f5ab089](https://github.com/user-attachments/assets/c2d8fd84-9f04-43fd-9ed4-38ed6cbc71ca)
+<img src="https://github.com/user-attachments/assets/08ce5657-3278-4a51-8672-450b8cb1458a" width=200>
 
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
