@@ -135,5 +135,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 <img src="https://github.com/user-attachments/assets/08ce5657-3278-4a51-8672-450b8cb1458a" width=200>
+
+
 ### RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
